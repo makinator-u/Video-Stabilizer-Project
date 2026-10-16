@@ -1,0 +1,15 @@
+# Core Computer Vision & Video Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Video I/O & Encoding
+imageio>=2.30.0
+imageio-ffmpeg>=0.4.9
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+
+# User Interface & Benchmarking
+streamlit>=1.28.0
+pandas>=2.0.0

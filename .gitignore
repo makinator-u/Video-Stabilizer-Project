@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Caches
+Library/
+.matplotlib/
+*.log
+
+# Streamlit Local Runtime
+.streamlit/credentials.toml
+
+# Generated Artifacts & Databases
+database/*.db
+storage/outputs/
+storage/plots/
+results/*.mp4
